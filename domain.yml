@@ -1,0 +1,40 @@
+version: "3.1"
+
+intents:
+  - greet
+  - farewell
+  - fallback
+  - asking_status_people
+  - asking_4_price_info
+  - asking_4_time_info
+
+responses:
+  utter_greet:
+    - text: "¡Hey parcero! ¿Bien o que?"
+  
+  utter_greet_asking_doubts:
+    - text: "¡Hey parce! ¿Bien o que? Contame con que te puedo asesorar."
+
+  utter_default_response:
+    - text: "Uy parce, no entendi tu mensaje, ¿podes escribirlo de otra forma?"
+
+  utter_default:
+      - text: "Uy parce, no entendi tu mensaje, ¿podes escribirlo de otra forma?"
+
+  utter_farewell:
+    - text: "Gracias por escribirnos, si tienes cualquier otra duda nos puedes escribir otra vez, ¡La buena!"
+
+  utter_farewell_2:
+    - text: "Si tienes mas dudas no dudes en contactarte, ¡pasa un excelente día!"
+
+  utter_response_asking_statuses:
+    - text: "Estoy muy bien, gracias por preguntar. ¿Cómo puedo ayudarte?"
+
+  utter_asking_4_time_info:
+    - text: "Es una mentoria a largo plazo."
+
+  utter_asking_4_pricing_info:
+    - text: "El servicio tiene un costo de COP$200.000"
+
+  utter_response_product:
+    - text: "Recibe mentoría de Zamyr Rua\nEmpieza a crear riqueza y trabaja con el desde hoy, APRENDERÁS TODO\nEn la web verás toda la información\n➡️ https://www.lider-z.com/lider-z ⬅️\nEsta será la decisión más importante de tu vida."

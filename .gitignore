@@ -1,0 +1,8 @@
+#Venv
+.venv/
+
+#Rasa cache
+.rasa/
+
+#Model training
+models/

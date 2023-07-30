@@ -1,0 +1,102 @@
+* Saludos:
+
+Hola buenas noches
+Buenas tarde bro
+Buenos días
+Buen día amiguito
+Buenos tardes
+Hola
+Buenas noches
+Hola quiero entrar
+Buenas
+Hola me interesa
+Buenas me interesa
+Saludos buenas  noches amigo
+Hi , Brot
+buen día, hno
+Bn noches
+Buenas tardes
+Hola qué más
+Buenas tardess
+
+* Pedir info:
+
+Para que me expliques bien lo de la plataforma
+como es para lo de generar dinero
+Rey me hables del negocio
+Una pregunta hay que vender algo o que O solo es invertir y ya
+Entonces bro con qué trabajan o con qué puedo trabajar ?
+Me das los datos
+En cómo ya aprender a invertir mi dinero para ganar
+Para que me expliques bien
+Lo de la plataforma o como es para lo de generar dinero
+Entonces bro con qué trabajan o con qué puedo trabajar ?
+Información
+Quiero saber cómo funciona, para salir del estancamiento emocional y financiero, muchas gracias
+Para el grupo vip
+vi el mensaje y me intereso
+quiero información sobre lider z
+Me interesa saber todo del programa
+Me explicar porfa
+Me explicas porfa
+Lo que yo estoy buscando es aprender sobre lo que está haciendo zamyr para luego hacerlo yo
+Hola estoy interesada en el canal de apuestas
+es un curso?
+y quiero hacer grandes tener dinero ahora
+quiero crecer como persona ayudar
+mantenerme yo mismo
+Quiero aprender contigo
+Disculpa es solamente apuesta cierto? Apuesta segura
+de q se trata señor?
+me gustaría  conocer saber más del tema me interesa
+saber sobre cómo trabajar
+pero me puedes contar
+algo para tener idea
+Estamos hablando de ventas
+Quiero ser millonario
+Como hago para saber más del tema para afiliarme
+Quiero conocer su método
+Como invierto
+Como me inscribo
+quiero saber más
+Quiero aprender a ganar dinero y sé que con tu ayuda
+Quisiera generar ingresos
+   Me podrias dar mas informacion sobre los grupos y las apuestas
+Cual y como es el proceso para aprender con ustedes
+Como hago para invertir contigo
+Estoy interesada
+estoy interesado en generar ingresos con el clan supremo
+dar info de cómo funciona tu proyecto gracias
+Informacion porfavor
+Como es la cuestión para generar dinero de la manera en que lo hace zamy
+me interesa saber más del tema para invertir
+Quiero aprender a generar ingresos
+Estoy interesado, qué hay que hacer?
+me podía orientar o ayudar a generar ingresos como él lo hace
+Veo tus vídeos en tiktok y Instagram y me gustaría trabajar contigo
+
+PREGUNTAS A MAPEAR:
+
+Ahí están los datos para hacer la consignación? (--Luego de enviar datos de trabajo)
+-- Como puedo empezar a trabajar con el trading? (--No trabajan con trading)
+-- Cuanto se gana? Se gana al día o la semana (--Informar sobre cuanto y cuando se puede ganar dinero)
+-- esto es para realizar ventas? (--No, no lo es. Es una mentoria que tu recibiras directamente por zamyr)
+-- También hay algo de apuestas (--Especificar cual es el canal: 
+
+* Mapear caso para preguntas posteriores a info de sitio
+
+stories:
+
+1. Saludar
+2. Solicitar info general
+3. Info sobre asesorias
+4. Info sobre apuestas.
+5. Datos de pago
+6. Despedida
+7. ¿Esto es para trabajar con ventas?
+8. Cuando y cuanto dinero recibire
+9. ¿Cuanto tiempo dura la afiliacion?
+10. Despedida
+
+
+

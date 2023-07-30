@@ -1,0 +1,113 @@
+version: "3.1"
+
+nlu:
+  - regex: estimation_object
+    examples: |
+      - \b.*\b
+
+  - intent: greet
+    examples: |
+      - hola
+      - buenos dias
+      - buenas tardes
+      - buenas noches
+      - saludos
+      - bien o que
+
+  - intent: asking_status_people
+    examples: |
+      - como esta
+      - que tal
+      - como te va
+      - como le va
+      - como les va
+      - como estan
+      - como estas
+      - como estas
+
+  - intent: requesting_4_info
+    examples: |
+      - para que me expliques bien lo de la plataforma
+      - como es para lo de generar dinero
+      - rey me hables del negocio
+      - una pregunta hay que vender algo o que o solo es invertir y ya
+      - entonces bro con que trabajan o con que puedo trabajar ?
+      - me das los datos
+      - en como ya aprender a invertir mi dinero para ganar
+      - para que me expliques bien
+      - lo de la plataforma o como es para lo de generar dinero
+      - entonces bro con que trabajan o con que puedo trabajar ?
+      - informacion
+      - quiero saber como funciona, para salir del estancamiento emocional y financiero, muchas gracias
+      - para el grupo vip
+      - vi el mensaje y me intereso
+      - quiero informacion sobre lider z
+      - me interesa saber todo del programa
+      - me explicar
+      - me explicas
+      - lo que yo estoy buscando es aprender sobre lo que esta haciendo zamyr para luego hacerlo yo
+      - hola estoy interesada en el canal de apuestas
+      - es un curso?
+      - y quiero hacer grandes tener dinero ahora
+      - quiero crecer como persona ayudar
+      - mantenerme yo mismo
+      - quiero aprender contigo
+      - disculpa es solamente apuesta cierto? apuesta segura
+      - de q se trata senor?
+      - me gustaria  conocer saber mas del tema me interesa
+      - saber sobre como trabajar
+      - pero me puedes contar
+      - algo para tener idea
+      - estamos hablando de ventas
+      - quiero ser millonario
+      - como hago para saber mas del tema para afiliarme
+      - quiero conocer su metodo
+      - como invierto
+      - como me inscribo
+      - quiero saber mas
+      - quiero aprender a ganar dinero y se que con tu ayuda
+      - quisiera generar ingresos
+      - me podrias dar mas informacion sobre los grupos y las apuestas
+      - cual y como es el proceso para aprender con ustedes
+      - como hago para invertir contigo
+      - estoy interesada
+      - estoy interesado en generar ingresos con el clan supremo
+      - dar info de como funciona tu proyecto gracias
+      - informacion porfavor
+      - como es la cuestion para generar dinero de la manera en que lo hace zamy
+      - me interesa saber mas del tema para invertir
+      - quiero aprender a generar ingresos
+      - estoy interesado, que hay que hacer?
+      - me podia orientar o ayudar a generar ingresos como el lo hace
+      - me gustaria trabajar contigo
+
+  - intent: asking_4_price_info
+    examples: |
+      - [costar](estimation_object)
+      - [cuanto cuesta](estimation_object)
+      - [cuanto vale](estimation_object)
+      - cuanto podria [costar](estimation_object)
+      - tiene algun [precio](estimation_object)?
+      - cuanto es lo menos?
+  
+  - intent: asking_4_time_info
+    examples: |
+      - [cuanto tiempo](estimation_object)
+      - [hasta cuando](estimation_object)
+      - por [cuanto tiempo](estimation_object)
+      - por [cuanto tiempo](estimation_object)
+      - [tiempo](estimation_object)
+
+  - intent: farewell
+    examples: |
+      - gracias por la informacion hasta luego
+      - nos vemos
+      - adios
+      - chao
+      - bye
+      - adiosito
+      - chaito
+      - la buena pues
+      - hasta luego
+      - suerte
+      - gracias
