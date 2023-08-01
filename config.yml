@@ -17,7 +17,6 @@ pipeline:
   - name: CRFEntityExtractor
   - name: CountVectorsFeaturizer
   - name: CountVectorsFeaturizer
-  - name: intent_classifier_tensorflow_embedding
     analyzer: char_wb
     min_ngram: 1
     max_ngram: 4

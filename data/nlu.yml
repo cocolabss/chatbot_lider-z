@@ -1,6 +1,23 @@
 version: "3.1"
 
+entities:
+  - entity: time
+    examples: |
+      - tiempo
+      - durante
+  
+  - entity: price
+    examples: |
+      - costo
+      - precio
+      - valor
+      - cuesta
+      - cuanto vale
+      - pagar
+
 nlu:
+
+
   - regex: estimation_object
     examples: |
       - \b.*\b
@@ -83,20 +100,21 @@ nlu:
 
   - intent: asking_4_price_info
     examples: |
-      - [costar](estimation_object)
-      - [cuanto cuesta](estimation_object)
-      - [cuanto vale](estimation_object)
-      - cuanto podria [costar](estimation_object)
-      - tiene algun [precio](estimation_object)?
-      - cuanto es lo menos?
-  
+      - [costar](price)
+      - [cuesta](price)?
+      - [cuanto vale](price)
+      - [valdria](price)
+      - cuanto podria [costar](price)
+      - tiene algun [precio](price)?
+      - [es lo menos](price)?
+      - [precio](price)
+      - [pagar](price)
+
   - intent: asking_4_time_info
     examples: |
-      - [cuanto tiempo](estimation_object)
-      - [hasta cuando](estimation_object)
-      - por [cuanto tiempo](estimation_object)
-      - por [cuanto tiempo](estimation_object)
-      - [tiempo](estimation_object)
+      - [tiempo](time)
+      - [duracion](time)
+      - dura
 
   - intent: farewell
     examples: |
@@ -111,3 +129,4 @@ nlu:
       - hasta luego
       - suerte
       - gracias
+

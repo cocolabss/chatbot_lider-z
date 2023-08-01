@@ -1,12 +1,19 @@
 version: "3.1"
 
 intents:
+
   - greet
   - farewell
   - fallback
   - asking_status_people
   - asking_4_price_info
   - asking_4_time_info
+  - requesting_4_info
+  - requesting_4_contact_numer_4_calling
+
+entities:
+  - time
+  - price
 
 responses:
   utter_greet:
@@ -36,5 +43,7 @@ responses:
   utter_asking_4_pricing_info:
     - text: "El servicio tiene un costo de COP$200.000"
 
+
   utter_response_product:
     - text: "Recibe mentoría de Zamyr Rua\nEmpieza a crear riqueza y trabaja con el desde hoy, APRENDERÁS TODO\nEn la web verás toda la información\n➡️ https://www.lider-z.com/lider-z ⬅️\nEsta será la decisión más importante de tu vida."
+
