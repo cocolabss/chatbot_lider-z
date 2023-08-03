@@ -9,10 +9,6 @@ intents:
   - requesting_4_info
   - requesting_4_contact_numer_4_calling
 
-entities:
-  - time
-  - price
-
 responses:
   utter_greet:
     - text: "¡Hey parcero! ¿Bien o que?"
