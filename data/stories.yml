@@ -1,6 +1,5 @@
 version: "3.1"
 
-
 stories:
   - story: happy path
     steps:
@@ -14,9 +13,9 @@ stories:
 
   - story: asking_4_info
     steps:
-      - intent: asking_4_info
+      - intent: requesting_4_info
       - action: utter_response_product
-  
+
   - story: asking_4_price_infost
     steps:
       - intent: asking_4_price_info
