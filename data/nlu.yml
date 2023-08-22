@@ -77,28 +77,12 @@ nlu:
       - me podia orientar o ayudar a generar ingresos como el lo hace
       - me gustaria trabajar contigo
 
-  - intent: asking_4_price_info
-    examples: |
-      - costo
-      - cuanto cuesta?
-      - cuanto vale
-      - cuanto valdria
-      - cuanto podria costar
-      - tiene algun precio?
-      - eso es lo menos?
-      - precio
-      - cuanto hay que pagar
-      - cuanto tengo que pagar
-      - cual es el costo?
-      - que precio tiene?
-
   - intent: asking_4_time_info
     examples: |
-      - cuanto tiempo dura?
-      - cual es la duracion
-      - cuanto dura?
-      - cuanto tarda?
-      - cuanto tiempo se tarda?
+      - tiempo dura?
+      - duracion
+      - dura?
+      - tarda?
       - cuanto se demora?
 
   - intent: farewell

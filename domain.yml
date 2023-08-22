@@ -4,7 +4,6 @@ intents:
   - greet
   - farewell
   - asking_status_people
-  - asking_4_price_info
   - asking_4_time_info
   - requesting_4_info
 
@@ -13,7 +12,7 @@ responses:
     - text: "¡Hey parcero! ¿Bien o que?"
 
   utter_default:
-    - text: "Uy parce, no entendi tu mensaje, ¿podes escribirlo de otra forma?"
+    - text: "Es una buena pregunta, podrás encontrar toda la información en mi página web:\n➡️ https://zamyrrua.com/ ⬅️\n Inscribete y comienza a generar riqueza."
 
   utter_farewell:
     - text: "Gracias por escribirnos, si tienes cualquier otra duda nos puedes escribir otra vez, ¡La buena!"
@@ -25,10 +24,7 @@ responses:
     - text: "Estoy muy bien, gracias por preguntar. ¿Cómo puedo ayudarte?"
 
   utter_asking_4_time_info:
-    - text: "Es una mentoria a largo plazo."
-
-  utter_asking_4_pricing_info:
-    - text: "El servicio tiene un costo de COP$200.000"
+    - text: "Es una mentoria a largo plazo. Podrás hallar más información en mi página: \n➡️ https://zamyrrua.com/ ⬅️\n Inscribete y comienza a generar riqueza."
 
   utter_response_product:
-    - text: "Recibe mentoría de Zamyr Rua\nEmpieza a crear riqueza y trabaja con él desde hoy, APRENDERÁS TODO\nEn la web verás toda la información\n➡️ https://www.lider-z.com/lider-z ⬅️\nEsta será la decisión más importante de tu vida."
+    - text: "Recibe mentoría de Zamyr Rua\nEmpieza a crear riqueza y trabaja con él desde hoy, APRENDERÁS TODO\nEn la web verás toda la información\n➡️ https://zamyrrua.com/ ⬅️\nEsta será la decisión más importante de tu vida."
