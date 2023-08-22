@@ -7,7 +7,6 @@ intents:
   - asking_4_price_info
   - asking_4_time_info
   - requesting_4_info
-  - requesting_4_contact_numer_4_calling
 
 responses:
   utter_greet:

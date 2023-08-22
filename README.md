@@ -23,9 +23,9 @@ _ rasa shell nlu - En api: \* rasa run --enable-api
 3.  1. Instalar:
 
        - doctl auth switch --context cocolabs
-       - helm install --namespace chatbots --values rasa-values.yml cocolabs-chatbot rasa/rasa
+       - helm install --namespace chatbots --values rasa-values.yml lider-z-chatbot rasa/rasa
 
-       - helm uninstall cocolabs-chatbot --namespace chatbots (Para eliminar)
+       - helm uninstall lider-z-chatbot --namespace chatbots (Para eliminar)
 
     2. Cargar:
        - helm upgrade --namespace chatbots --reuse-values -f rasa-values.yml cocolabs-chatbot rasa/rasa
