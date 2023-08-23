@@ -9,22 +9,19 @@ intents:
 
 responses:
   utter_greet:
-    - text: "¡Hey parcero! ¿Bien o que?"
+    - text: "¡Hey parcero! ¿Bien o qué?"
 
   utter_default:
-    - text: "Es una buena pregunta, podrás encontrar toda la información en mi página web:\n➡️ https://zamyrrua.com/ ⬅️\n Inscribete y comienza a generar riqueza."
+    - text: "Es una buena pregunta, podrás encontrar toda la información en mi página web:\n➡️ https://zamyrrua.com/ ⬅️\n Inscríbete y comienza a generar riqueza."
 
   utter_farewell:
-    - text: "Gracias por escribirnos, si tienes cualquier otra duda nos puedes escribir otra vez, ¡La buena!"
-
-  utter_farewell_2:
-    - text: "Si tienes mas dudas no dudes en contactarte, ¡pasa un excelente día!"
+    - text: "Gracias por escribirnos, si tienes cualquier otra duda, nos puedes escribir otra vez. ¡La buena!"
 
   utter_response_asking_statuses:
     - text: "Estoy muy bien, gracias por preguntar. ¿Cómo puedo ayudarte?"
 
   utter_asking_4_time_info:
-    - text: "Es una mentoria a largo plazo. Podrás hallar más información en mi página: \n➡️ https://zamyrrua.com/ ⬅️\n Inscribete y comienza a generar riqueza."
+    - text: "Es una mentoria a largo plazo. Podrás hallar más información en mi página: \n➡️ https://zamyrrua.com/ ⬅️\n Inscríbete y comienza a generar riqueza."
 
   utter_response_product:
     - text: "Recibe mentoría de Zamyr Rua\nEmpieza a crear riqueza y trabaja con él desde hoy, APRENDERÁS TODO\nEn la web verás toda la información\n➡️ https://zamyrrua.com/ ⬅️\nEsta será la decisión más importante de tu vida."

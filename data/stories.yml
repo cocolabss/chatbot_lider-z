@@ -25,4 +25,3 @@ stories:
     steps:
       - intent: farewell
       - action: utter_farewell
-      - action: utter_farewell_2
