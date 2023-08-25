@@ -20,56 +20,46 @@ nlu:
       - como estan
       - como estas
       - como estas
+      - bien y vos?
+      - bien y tu?
 
   - intent: requesting_4_info
     examples: |
       - para que me expliques bien lo de la plataforma
       - como es para lo de generar dinero
       - rey me hables del negocio
-      - una pregunta hay que vender algo o que o solo es invertir y ya
-      - entonces bro con que trabajan o con que puedo trabajar ?
       - me das los datos
       - en como ya aprender a invertir mi dinero para ganar
-      - para que me expliques bien
       - lo de la plataforma o como es para lo de generar dinero
-      - entonces bro con que trabajan o con que puedo trabajar ?
+      - entonces bro con que trabajan o con que puedo trabajar?
       - informacion
       - quiero saber como funciona, para salir del estancamiento emocional y financiero, muchas gracias
       - para el grupo vip
       - vi el mensaje y me intereso
       - quiero informacion sobre lider z
       - me interesa saber todo del programa
-      - me explicar
       - me explicas
-      - lo que yo estoy buscando es aprender sobre lo que esta haciendo zamyr para luego hacerlo yo
+      - estoy buscando es aprender sobre lo que esta haciendo zamyr para luego hacerlo yo
       - hola estoy interesada en el canal de apuestas
       - es un curso?
-      - y quiero hacer grandes tener dinero ahora
-      - quiero crecer como persona ayudar
-      - mantenerme yo mismo
+      - quiero crecer como persona
       - quiero aprender contigo
       - disculpa es solamente apuesta cierto? apuesta segura
-      - de q se trata senor?
-      - me gustaria  conocer saber mas del tema me interesa
+      - de que se trata?
+      - me gustaria conocer saber mas del tema me interesa
       - saber sobre como trabajar
-      - pero me puedes contar
-      - algo para tener idea
-      - estamos hablando de ventas
       - quiero ser millonario
       - como hago para saber mas del tema para afiliarme
       - quiero conocer su metodo
       - como invierto
       - como me inscribo
       - quiero saber mas
-      - quiero aprender a ganar dinero y se que con tu ayuda
+      - quiero aprender a ganar dinero
       - quisiera generar ingresos
       - me podrias dar mas informacion sobre los grupos y las apuestas
-      - cual y como es el proceso para aprender con ustedes
-      - como hago para invertir contigo
-      - estoy interesada
       - estoy interesado en generar ingresos con el clan supremo
       - dar info de como funciona tu proyecto gracias
-      - informacion porfavor
+      - informacion por favor
       - como es la cuestion para generar dinero de la manera en que lo hace zamy
       - me interesa saber mas del tema para invertir
       - quiero aprender a generar ingresos
