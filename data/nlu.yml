@@ -19,7 +19,6 @@ nlu:
       - como les va
       - como estan
       - como estas
-      - como estas
       - bien y vos?
       - bien y tu?
 
@@ -29,43 +28,13 @@ nlu:
       - como es para lo de generar dinero
       - rey me hables del negocio
       - me das los datos
-      - en como ya aprender a invertir mi dinero para ganar
-      - lo de la plataforma o como es para lo de generar dinero
+      - dame informacion
+      - quiero aprender a invertir mi dinero
       - entonces bro con que trabajan o con que puedo trabajar?
-      - informacion
-      - quiero saber como funciona, para salir del estancamiento emocional y financiero, muchas gracias
-      - para el grupo vip
+      - quiero saber como funciona
       - vi el mensaje y me intereso
-      - quiero informacion sobre lider z
-      - me interesa saber todo del programa
-      - me explicas
-      - estoy buscando es aprender sobre lo que esta haciendo zamyr para luego hacerlo yo
-      - hola estoy interesada en el canal de apuestas
-      - es un curso?
-      - quiero crecer como persona
-      - quiero aprender contigo
-      - disculpa es solamente apuesta cierto? apuesta segura
-      - de que se trata?
-      - me gustaria conocer saber mas del tema me interesa
-      - saber sobre como trabajar
       - quiero ser millonario
-      - como hago para saber mas del tema para afiliarme
-      - quiero conocer su metodo
-      - como invierto
-      - como me inscribo
-      - quiero saber mas
-      - quiero aprender a ganar dinero
-      - quisiera generar ingresos
-      - me podrias dar mas informacion sobre los grupos y las apuestas
-      - estoy interesado en generar ingresos con el clan supremo
-      - dar info de como funciona tu proyecto gracias
-      - informacion por favor
-      - como es la cuestion para generar dinero de la manera en que lo hace zamy
-      - me interesa saber mas del tema para invertir
-      - quiero aprender a generar ingresos
-      - estoy interesado, que hay que hacer?
-      - me podia orientar o ayudar a generar ingresos como el lo hace
-      - me gustaria trabajar contigo
+      - me puedes hacer millonario?
 
   - intent: asking_4_time_info
     examples: |
@@ -88,3 +57,38 @@ nlu:
       - hasta luego
       - suerte
       - gracias
+
+  - intent: request_vip_info
+    examples: |
+      - quiero ingresar al grupo VIP
+      - me interesa entrar al grupo VIP
+      - como hago para ser vip?
+      - como entro a las apuestas deportivas?
+      - quisiera hacer parte del grupo vip
+      - estoy interesado en entrar al grupo vip
+      - quiero ingresar al grupo de apuestas
+      - como es lo de las apuestas?
+
+  - intent: request_supreme_clan
+    examples: |
+      - quiero informacion del clan supremo
+      - me interesa entrar al clan supremo
+      - como hago para ser del grupo del clan supremo?
+      - como entro al clan supremo?
+      - quiero ser parte del clan supremo
+      - quisiera hacer parte del clan supremo
+      - como me uno al grupo del clan supremo?
+      - como es lo del clan supremo?
+
+  - intent: request_after_payment_info
+    examples: |
+      - que pasa despues de hacer el pago?
+      - que hago despues de pagar?
+      - que sucede luego de pagar?
+      - despues de comprar que?
+      - despues de transferir que pasa?
+      - luego de la transferencia que?
+      - transfiero y que pasa?
+      - pago y luego que?
+      - envio la plata y que?
+      - te paso la plata y que sucede?

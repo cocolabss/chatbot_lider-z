@@ -25,3 +25,18 @@ stories:
     steps:
       - intent: farewell
       - action: utter_farewell
+
+  - story: vip_info
+    steps:
+      - intent: request_vip_info
+      - action: utter_vip
+
+  - story: supreme_clan
+    steps:
+      - intent: request_supreme_clan
+      - action: utter_supreme_clan
+
+  - story: after_payment
+    steps:
+      - intent: request_after_payment_info
+      - action: utter_after_payment
