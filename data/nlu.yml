@@ -92,3 +92,15 @@ nlu:
       - pago y luego que?
       - envio la plata y que?
       - te paso la plata y que sucede?
+
+  - intent: payment
+    examples: |
+      - listo, quiero pagar.
+      - como hago para pagar?
+      - como puedo pagar?
+      - cuales son los datos para pagar?
+      - por donde se paga?
+      - como puedo comprar?
+      - quiero comprar
+      - mandame la informacion para pago
+      - dime como pagar

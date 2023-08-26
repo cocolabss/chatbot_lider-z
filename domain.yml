@@ -9,6 +9,7 @@ intents:
   - request_vip_info
   - request_supreme_clan
   - request_after_payment_info
+  - payment
 
 responses:
   utter_greet:
@@ -30,10 +31,16 @@ responses:
     - text: "Recibe mentoría de Zamyr Rua\nEmpieza a crear riqueza y trabaja con él desde hoy, APRENDERÁS TODO\nEn la web verás toda la información\n➡️ https://zamyrrua.com/ ⬅️\nEsta será la decisión más importante de tu vida."
 
   utter_vip:
-    - text: "ABRIMOS CUPOS VIP PROMOCIÓN\nMembresía resto de Agosto y Septiembre 2x1 (pagas un mes y te damos el siguiente GRATIS)\n \nBENEFICIOS VIP:\n \n✅12 APUESTAS SEGURAS\n✅Si no sabes apostar, te enseñamos\n✅RETO ESCALERA a 1 millón\n \nValor: $79.999\nDatos de pago ⬇️\n💳 Bancolombia: 83200021544 (ahorros)\n📲 NEQUI: 304-465-4154\n \nEnviar captura de pago a: @ZamyrRua"
+    - text: "Estos son los beneficios del grupo VIP:\n \n✅ Recibes más de 10 pronósticos de máxima confiabilidad al mes\n✅ Te enseñamos a gestionar tu capital para invertir\n✅ RETO ESCALERA a 1 millón cada mes\n Te enseñamos a manejar todas las páginas web"
 
   utter_supreme_clan:
-    - text: "¿Quieres RIQUEZA?\nConmigo aprenderás a crearla\n \nInscripción\nValor $199.999\n \n💵 Transferencia Bancolombia\n83200021544 (Ahorros)\n📲 NEQUI: 304-465-4154"
+    - text: "En el clan supremo tendrs:\n \n✅ Acceso a material exclusivo.✅ Métodos comprobados para obtener el éxito.✅ Aprenderás todo desde cero.✅ Puedes cancelar tu suscripción cuando quieras.\n \nYo salí del sistema y te enseñaré como hacerlo."
 
   utter_after_payment:
     - text: "Después de pagar, te ingresamos a un grupo donde tendrás comunicación directa con Zamyr y así mismo empezarás toda la mentoría."
+
+  utter_payment:
+    - custom:
+        blocks:
+          - text: "Nuestros horarios de atencion son de lunes a viernes de 8:00 AM a 5:00 PM. En breve, uno de nuestros agentes te atenderá."
+          - handoff: true

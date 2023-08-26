@@ -40,3 +40,8 @@ stories:
     steps:
       - intent: request_after_payment_info
       - action: utter_after_payment
+
+  - story: express_payment_intention
+    steps:
+      - intent: payment
+      - action: utter_payment
