@@ -30,10 +30,10 @@ responses:
     - text: "Recibe mentoría de Zamyr Rua\nEmpieza a crear riqueza y trabaja con él desde hoy, APRENDERÁS TODO\nEn la web verás toda la información\n➡️ https://zamyrrua.com/ ⬅️\nEsta será la decisión más importante de tu vida."
 
   utter_vip:
-    - text: "ABRIMOS CUPOS VIP PROMOCIÓN\nMembresía resto de Agosto y Septiembre 2x1 (pagas un mes y te damos el siguiente GRATIS)\n\nBENEFICIOS VIP:\n\n✅12 APUESTAS SEGURAS\n✅Si no sabes apostar, te enseñamos\n✅RETO ESCALERA a 1 millón\n\nValor: $79.999\nDatos de pago ⬇️\n💳 Bancolombia: 83200021544 (ahorros)\n📲 NEQUI: 304-465-4154\n\nEnviar captura de pago a: @ZamyrRua"
+    - text: "ABRIMOS CUPOS VIP PROMOCIÓN\nMembresía resto de Agosto y Septiembre 2x1 (pagas un mes y te damos el siguiente GRATIS)\n \nBENEFICIOS VIP:\n \n✅12 APUESTAS SEGURAS\n✅Si no sabes apostar, te enseñamos\n✅RETO ESCALERA a 1 millón\n \nValor: $79.999\nDatos de pago ⬇️\n💳 Bancolombia: 83200021544 (ahorros)\n📲 NEQUI: 304-465-4154\n \nEnviar captura de pago a: @ZamyrRua"
 
   utter_supreme_clan:
-    - text: "¿Quieres RIQUEZA?\nConmigo aprenderás a crearla\n\nInscripción\nValor $199.999\n\n💵 Transferencia Bancolombia\n83200021544 (Ahorros)\n📲 NEQUI: 304-465-4154"
+    - text: "¿Quieres RIQUEZA?\nConmigo aprenderás a crearla\n \nInscripción\nValor $199.999\n \n💵 Transferencia Bancolombia\n83200021544 (Ahorros)\n📲 NEQUI: 304-465-4154"
 
   utter_after_payment:
     - text: "Después de pagar, te ingresamos a un grupo donde tendrás comunicación directa con Zamyr y así mismo empezarás toda la mentoría."
